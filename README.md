@@ -10,6 +10,10 @@ Each series has its own page with episode links and short descriptions.
 - **Business Rules and Business Logic**  
   → [Open series page](./business-rules-series.md)
 
+- **[AI’s Software Development Lifecycle](./ai-software-development-lifecycle.md)**  
+  → The full four-part exploration of how AI changes architecture, engineering, and operations.
+
+
 <!-- Add more series pages below as you publish them -->
 <!-- Example:
 - **AI’s Software Development Lifecycle**  
